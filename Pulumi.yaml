@@ -1,0 +1,3 @@
+name: pulumi-public-github-test
+description: A minimal Java Pulumi program with Gradle builds
+runtime: java
